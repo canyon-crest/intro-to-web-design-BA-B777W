@@ -49,6 +49,12 @@ a:hover{
 a:active{
     color:red;
 }
+#pic3{
+    margin-top:10px;
+}
+#borderfix{
+    margin-top:30px
+}
 @media (max-width: 1000px){
     #container{
         width: 650px;
@@ -73,5 +79,8 @@ a:active{
     }
     #pic2{
         float:none;
+    }
+    #borderfix{
+    margin-top:0px
     }
 }
