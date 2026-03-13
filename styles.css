@@ -87,17 +87,21 @@ a:active{
         margin-top:-10px;
     }
     body{
-        padding:0px;
+        padding:-5px;
         background-color:blanchedalmond;
+    }
+    #pic2{
+        float:none;
+        height:auto;
+        margin-left:0px;
+        margin-left:1.5%;
     }
     img{
         float:top;
         width:95%;
         margin-bottom: 5px;
-    }
-    #pic2{
-        float:none;
-        height:auto;
+        margin-left:1.5%;
+
     }
     #borderfix{
     margin-top:0px
