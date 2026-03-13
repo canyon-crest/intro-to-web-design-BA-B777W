@@ -55,7 +55,12 @@ a:active{
 #borderfix{
     margin-top:30px
 }
-@media (max-width: 1000px){
+@media (max-width: 1200){
+    #container{
+        width: 900px;
+    }
+}
+@media (max-width: 992){
     #container{
         width: 650px;
     }
